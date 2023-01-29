@@ -184,3 +184,17 @@ padding: 70px 0;
     padding: 0 20px;
     text-align: initial;
 }
+@media screen and(max-width:770px){
+    .title-text h1{
+        font-size: 25px;
+    }
+    .courses{
+        flex-basis: 100%;
+    }
+    .course-img{
+        flex-basis: 100%;     
+    }
+    .course-img img{
+        width: 100%;
+    }
+}
