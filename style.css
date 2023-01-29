@@ -98,10 +98,10 @@ button:hover{
 }
 @media screen and(max-width:770px) {
     .content h1{
-        font-size: 25px;
+        font-size: 40px;
     }
     .content p{
-        font-size: 15px;
+        font-size: 25px;
     }
 }
 /*-- Course--*/
@@ -184,6 +184,7 @@ padding: 70px 0;
     padding: 0 20px;
     text-align: initial;
 }
+/*
 @media screen and(max-width:770px){
     .title-text h1{
         font-size: 25px;
@@ -196,5 +197,6 @@ padding: 70px 0;
     }
     .course-img img{
         width: 100%;
-    }
-}
+    } 
+    
+}*/
